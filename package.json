@@ -1,6 +1,6 @@
 {
   "name": "file-metadata",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "API project for freeCodeCamp",
   "main": "server.js",
   "scripts": {
@@ -22,5 +22,14 @@
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^1.18.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirstuk/fcc-file-metadata.git"
+  },
+  "author": "Francesco Mirabella",
+  "bugs": {
+    "url": "https://github.com/mirstuk/fcc-file-metadata/issues"
+  },
+  "homepage": "https://github.com/mirstuk/fcc-file-metadata#readme"
 }
